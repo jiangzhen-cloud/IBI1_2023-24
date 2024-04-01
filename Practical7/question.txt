@@ -1,0 +1,5 @@
+How has the DALYs changed in the UK over time?
+From lines 33 to 37 of the code, I look up the data for the United Kingdom and plot a plot using the plot function. 
+As can be seen from the figure, DALYs in Britain showed a trend of first decreasing and then basically maintaining the same.
+And this is exactly what we expected, because with the improvement of the medical level in the UK, the DALYs value should show a downward trend. 
+After a certain level of decline, it basically stays the same.
