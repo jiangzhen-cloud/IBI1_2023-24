@@ -1,0 +1,15 @@
+Comparison between SLC6A4_HUMAN and SLC6A4_MOUSE
+    Alignment score is 3137.0 
+    Percentage of identical amino acids: 92.53968253968254%
+Comparison between SLC6A4_HUMAN and SLC6A4_RAT
+    Alignment score: 3107.0
+    Percentage of identical amino acids: 91.74603174603175%
+Comparison between SLC6A4_MOUSE and SLC6A4_RAT
+    Alignment score: 3261.0
+    Percentage of identical amino acids: 96.82539682539682%
+
+The human SLC6A4 gene sequence more like the mouse.
+
+The mice's and rats' sequences are most closely related.
+
+Mouse is a better model organism for human.
