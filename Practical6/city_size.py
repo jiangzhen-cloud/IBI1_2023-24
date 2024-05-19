@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
-uk_cities=np.array([0.56,0.62,0.04,9.7])                    #Set array
-china_cities=np.array([0.58,8.4,29.9,22.2])                 #Set array
+uk_cities=np.array([0.04,0.56,0.62,9.7])                    #Set array
+china_cities=np.array([0.58,8.4,22.2,29.9])                 #Set array
 print(uk_cities)
 print(china_cities)
 x=["a","b","c","d"]                                         #Set the X-axis coordinates
