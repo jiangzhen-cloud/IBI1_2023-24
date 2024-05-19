@@ -1,8 +1,7 @@
 #a1=0.05
 #while an<0.9:
-#an=2an-1
-#if an>0.9:
-#DONE  print(n)
+#an=2an
+#print(n)
 
 
 a=0.05
