@@ -1,0 +1,2 @@
+seq="ATGCAATCGGTGTGTCTGTTCTGAGAGGGCCTAA"
+print(seq.count("GTGTGT")+seq.count("GTCTGT"))
